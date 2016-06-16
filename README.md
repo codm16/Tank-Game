@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ======================
 Git & GitHub Workflow
 ======================
@@ -16,3 +17,6 @@ git commit -m "added readme file comment"<br>
 git push origin master<br>
 GitHub username:  username<br>
 GitHub password:  will remain blank while you type (for extra security)<br>
+=======
+# Tank-Game
+>>>>>>> 6d68e89b38393deb40645cb52bd2da90913804c8
